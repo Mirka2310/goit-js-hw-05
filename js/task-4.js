@@ -41,5 +41,5 @@ const alltheUsers = [
   },
 ];
 
-console.log(getTotalBalanceByGender(alltheUser, "male")); // 12053
-console.log(getTotalBalanceByGender(alltheUser, "female")); // 8863
+console.log(getTotalBalanceByGender(alltheUsers, "male")); // 12053
+console.log(getTotalBalanceByGender(alltheUsers, "female")); // 8863
